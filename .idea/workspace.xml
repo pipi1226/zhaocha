@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2961bc81-9575-42c6-91cf-ed823deb122d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0615zhaocha.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0615zhaocha2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0622zhaocha.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0625zhaocha-laplas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0625zhaocha.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/h1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/h2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/houzi.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cutLeft.jpg" afterPath="$PROJECT_DIR$/cutLeft.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cutRight.jpg" afterPath="$PROJECT_DIR$/cutRight.jpg" />
+    <list default="true" id="2961bc81-9575-42c6-91cf-ed823deb122d" name="Default" comment="2016-06-25 find difference between two pics, 0625zhaocha, 0625-zhaocha-laplas">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0610zhaocha.py" afterPath="$PROJECT_DIR$/0610zhaocha.py" />
     </list>
     <ignored path="zhaocha.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,8 +38,8 @@
       <file leaf-file-name="0625zhaocha-laplas.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0625zhaocha-laplas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7260982">
-              <caret line="205" column="20" selection-start-line="205" selection-start-column="20" selection-end-line="205" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.6901961">
+              <caret line="191" column="36" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
               <folding>
                 <element signature="e#1#19#0" expanded="true" />
               </folding>
@@ -436,6 +423,13 @@
       <option name="number" value="Default" />
       <updated>1456067437641</updated>
     </task>
+    <task id="LOCAL-00001" summary="2016-06-25 find difference between two pics, 0625zhaocha, 0625-zhaocha-laplas">
+      <created>1466850523147</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1466850523147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,9 +438,10 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22736156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -471,6 +466,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2016-06-25 find difference between two pics, 0625zhaocha, 0625-zhaocha-laplas" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016-06-25 find difference between two pics, 0625zhaocha, 0625-zhaocha-laplas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -523,6 +522,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="125" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="374" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -774,13 +776,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="109" column="20" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <element signature="e#1#19#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0625zhaocha-laplas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7260982">
-          <caret line="205" column="20" selection-start-line="205" selection-start-column="20" selection-end-line="205" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.6901961">
+          <caret line="191" column="36" selection-start-line="191" selection-start-column="36" selection-end-line="191" selection-end-column="36" />
           <folding>
             <element signature="e#1#19#0" expanded="true" />
           </folding>
