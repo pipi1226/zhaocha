@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+# 0610 修改
+# 特征匹配，分割连着的两幅图
+# 匹配两幅图特征图，小块匹配
+
+
+>>>>>>> origin/master
 
 import numpy as np
 import cv2
@@ -123,8 +131,13 @@ for mt in matches[:5]:
     trainX = kp2[trainIdx].pt[0]
     trainY = kp2[trainIdx].pt[1]
 
+<<<<<<< HEAD
 plt.imshow(imgCmp)
 plt.show()
+=======
+#plt.imshow(imgCmp)
+#plt.show()
+>>>>>>> origin/master
 
 matchW = 50
 matchH = 50
